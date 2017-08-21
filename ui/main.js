@@ -7,6 +7,6 @@ var img=document.getElementById("drago");
         img.style.marginleft='100';
     }*/
     img.onclick=function(){
-  img.style.marginleft='100px';
+  img.style.marginLeft='100px';
   //var intervel=SetIntervel(moveright,50);  
 };
